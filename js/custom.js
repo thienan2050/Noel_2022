@@ -113,7 +113,7 @@
     Countdown Clock
     ................................................. */
 	function makeTimer() {
-		var endTime = new Date("23 Dec 2022 17:30:00 GMT+07:00");			
+		var endTime = new Date("25 Dec 2022 17:30:00 GMT+07:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
